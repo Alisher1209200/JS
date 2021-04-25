@@ -16,6 +16,8 @@ const soldier = {
     }
 };
 
+const john = Object.create(soldier);
+
 // const john = {
 //     health: 100
 // };
